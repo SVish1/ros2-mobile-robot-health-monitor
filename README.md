@@ -26,11 +26,15 @@ Published:
 - std_msgs
 
 ## Build
+```bash
 colcon build
 source install/setup.bash
+```
 
 ## Run
+```bash
 ros2 run robot_health_monitor health_monitor
+```
 
 ## Example Output
 LiDAR: 10.00 Hz | Speed: 0.50 m/s | Distance: 12.4 m
