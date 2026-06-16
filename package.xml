@@ -3,9 +3,9 @@
 <package format="3">
   <name>robot_health_monitor</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
+  <description>ROS2 mobile robot health monitoring package for LiDAR and odometry diagnostics.</description>
   <maintainer email="shamita@todo.todo">shamita</maintainer>
-  <license>TODO: License declaration</license>
+  <license>MIT</license>
 
   <depend>sensor_msgs</depend>
   <depend>nav_msgs</depend>
