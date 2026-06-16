@@ -24,3 +24,10 @@ Published:
 - sensor_msgs
 - nav_msgs
 - std_msgs
+
+## Run
+
+```bash
+colcon build
+source install/setup.bash
+ros2 run robot_health_monitor health_monitor
