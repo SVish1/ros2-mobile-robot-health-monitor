@@ -36,9 +36,9 @@ ros2 run robot_health_monitor health_monitor
 LiDAR: 10.00 Hz | Speed: 0.50 m/s | Distance: 12.4 m
 
 ## Future Improvements
-Battery monitoring
-ROS diagnostics integration
-Launch files
-Lifecycle nodes
-Health dashboard
+- Battery monitoring
+- ROS diagnostics integration
+- Launch files
+- Lifecycle nodes
+- Health dashboard
 
